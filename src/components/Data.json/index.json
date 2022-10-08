@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "001",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtZU6hpzSrzRON8Ngamn_ttz9JELCRAqWh6g&usqp=CAU",
+      "title": "Card title",
+      "desc": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": "002",
+      "image_url": "https://cdn1.smartprix.com/rx-i3zlXqJX5-w1200-h1200/3zlXqJX5.jpg",
+      "title": "Card title",
+      "desc": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": "003",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqZHeQ9dHz2_KWuj2VHcpGvb8YYi-peJYiSQ&usqp=CAU",
+      "title": "Card title",
+      "desc": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": "004",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5FvXhSTx2h_kXB0ahc_CXm5oKhBcl985mOw&usqp=CAU",
+      "title": "Card title",
+      "desc": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    }
+  ]
+}
